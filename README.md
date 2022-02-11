@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">I'm Computer Engineering Student and also Full Stack Developer</h3>
+<h3 align="center">I'm Computer Engineering Student and also Full Stack Developer. I'm working on C#,React.js and JavaScript</h3>
 
 - 📫 How to reach me **avcibatuhan26@gmail.com**
 
