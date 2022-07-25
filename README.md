@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">I have BSc degree on Computer Engineering and currently working as a Full Stack Developer. I'm working on C# ASP.NET,React.js and JavaScript</h3>
+<h3 align="center">I have BSc degree in Computer Engineering and currently working as a Full Stack Developer. I'm working on C# ASP.NET,React.js and JavaScript</h3>
 
 - 📫 How to reach me **avcibatuhan26@gmail.com**
 
