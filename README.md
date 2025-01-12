@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">I have BSc degree in Computer Engineering and currently working as a Full Stack Developer. I'm working on C# ASP.NET,React.js and JavaScript</h3>
+<h3 align="center">Hi there! I'm a passionate software engineer with a Bachelor's degree in Computer Engineering, currently pursuing a Master's in Artificial Intelligence. I have professional experience in developing applications using C#, ASP.NET, React.js, and JavaScript. I love exploring new technologies and contributing to innovative projects. Feel free to check out my repositories and connect with me!</h3>
 
 - 📫 How to reach me **avcibatuhan26@gmail.com**
 
